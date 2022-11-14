@@ -6,5 +6,5 @@
 ## Python Functions, Advanced Concepts using Python lists, tuples, sets and dictionaries - Writing 25 Programs
 - [Link]()
 ### Assignments
-## Data Tensorflow
+## Tensorflow
 - [Link](https://bit.ly/3DXocMw)
