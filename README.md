@@ -8,3 +8,5 @@
 ### Assignments
 ## Tensorflow
 - [Link](https://bit.ly/3DXocMw)
+## ppt
+- [Link](https://bit.ly/3DXocMw)
