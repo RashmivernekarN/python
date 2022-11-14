@@ -1,0 +1,14 @@
+{
+    "student Biodata":
+    {
+        "first name":"Apple",
+        "last name":" Orange",
+        "DOB":"08-10-2000",
+        "address":
+        {
+            "city":"Hubli",
+            "PIN":"580029"
+        }
+    }
+    
+}
