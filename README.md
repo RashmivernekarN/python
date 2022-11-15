@@ -1,6 +1,6 @@
 ### AI with Python
 ## Assignments
--[link]()
+-[link](https://bit.ly/3UPRiV6)
 ## Assignments
 -[link]()
 ## Assignments
