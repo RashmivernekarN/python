@@ -1,0 +1,22 @@
+#1.python program to find the power of a number in a list using recursion
+n=int(input("enter base number "))
+a=int(input("enter value of power "))
+b=n**a
+print("the power of entered number is ",b)
+
+#2.how to print multiple arguments in python and call a function to display the arguments
+def its(name, num):
+    print("Hi ther ", name + ', ' + num)
+its("this is yusuf", "786")
+
+#3program to sort unsorted numbers using list in ascending order in python
+list1 = [1, 3, 4, 2,6,5]
+list1.sort()
+print(list1)
+
+#4find fibonacci series upto n using lambda
+def fibonacci(count):
+   listA = [0, 1]
+   any(map(lambda _:listA.append(sum(listA[-2:])),range(2, count)))
+   return listA[:count]
+print(fibonacci(99))

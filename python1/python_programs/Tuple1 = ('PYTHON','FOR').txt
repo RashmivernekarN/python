@@ -1,0 +1,2 @@
+Tuple1 = ('PYTHON','FOR')
+PRINT("Tuple1")
