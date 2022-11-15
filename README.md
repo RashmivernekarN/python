@@ -1,25 +1,25 @@
 ### AI with Python
 ## Assignments
--[link](https://bit.ly/3UPRiV6)
+- [link](https://bit.ly/3UPRiV6)
 ## Assignments
--[link](https://bit.ly/3GhSXyG)
+- [link](https://bit.ly/3GhSXyG)
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## Assignments
--[link]()
+- [link]()
 ## PPT
--[link](https://tinyurl.com/3rrk7kny)
+- [link](https://tinyurl.com/3rrk7kny)
