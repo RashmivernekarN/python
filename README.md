@@ -14,7 +14,7 @@
 ## Assignments 7
 - [link](https://rb.gy/4d45wg)
 ## Assignments 8
-- [link]()
+- [link](https://rb.gy/fzyznr)
 ## Assignments 9
 - [link]()
 ## Assignments 10
