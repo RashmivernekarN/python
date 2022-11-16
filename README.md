@@ -24,7 +24,7 @@
 ## PPT
 - [link](https://tinyurl.com/3rrk7kny)
 - ## Assignments 11
-- [link]()
+- [link](https://rb.gy/6ni1u3)
 - ## Assignments 11
 - [link]()
 - - ## Assignments 11
